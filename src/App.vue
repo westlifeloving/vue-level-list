@@ -107,6 +107,7 @@ export default {
         return namelist.name !== ''
       })
       console.log(namelist.name)
+      return "";
       // return newlist 
     }
   }
