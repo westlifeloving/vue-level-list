@@ -1,4 +1,4 @@
-# vue-level-list
+# vue-level-list折叠列表，实现父子组件传值，开关隐藏子列表（使用v-show提高性能减少消耗）和控制列表背景变色
 
 ## Project setup
 ```
